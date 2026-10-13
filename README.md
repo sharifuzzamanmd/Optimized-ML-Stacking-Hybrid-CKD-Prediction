@@ -131,8 +131,8 @@ See [`data/README.md`](data/README.md) for the full attribute list.
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/sharifuzzamanmd/Optimized-ML-Stacking-Hybrid-CKD-Prediction.git
+cd Optimized-ML-Stacking-Hybrid-CKD-Prediction
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
