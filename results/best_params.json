@@ -1,0 +1,39 @@
+{
+  "KNN": {
+    "algorithm": "auto",
+    "leaf_size": 10,
+    "metric": "manhattan",
+    "n_neighbors": 3,
+    "p": 1,
+    "weights": "uniform"
+  },
+  "Decision Tree": {
+    "criterion": "gini",
+    "max_depth": 5,
+    "max_features": "log2",
+    "min_samples_leaf": 2,
+    "min_samples_split": 3,
+    "splitter": "best",
+    "random_state": 42
+  },
+  "Logistic Regression": {
+    "C": 0.23357214690901212,
+    "solver": "saga",
+    "max_iter": 100
+  },
+  "Gradient Boosting": {
+    "learning_rate": 0.001,
+    "loss": "exponential",
+    "max_depth": 5,
+    "max_features": "sqrt",
+    "min_samples_leaf": 2,
+    "min_samples_split": 2,
+    "n_estimators": 50,
+    "subsample": 1.0,
+    "random_state": 42
+  },
+  "Naive Bayes": {
+    "priors": null,
+    "var_smoothing": 0.1
+  }
+}

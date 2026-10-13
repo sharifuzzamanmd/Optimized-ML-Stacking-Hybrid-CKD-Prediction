@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this code or results, please cite the paper below."
+title: "Optimized Machine Learning Models and Stacking Hybrid Approach for Chronic Kidney Disease Prediction"
+authors:
+  - family-names: Sharifuzzaman
+    given-names: Md
+    orcid: "https://orcid.org/0009-0007-9873-9709"
+  - family-names: Fahad
+    given-names: Nafiz
+  - family-names: Rabbi
+    given-names: Riadul Islam
+  - family-names: Sadib
+    given-names: Ridwan Jamal
+  - family-names: Tusher
+    given-names: Ekramul Haque
+  - family-names: Liew
+    given-names: Tze Hui
+  - family-names: Islam
+    given-names: Mohammad Naimul
+  - family-names: Miah
+    given-names: Md Saef Ullah
+  - family-names: Hossen
+    given-names: Md. Jakir
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Optimized Machine Learning Models and Stacking Hybrid Approach for Chronic Kidney Disease Prediction"
+  authors:
+    - family-names: Sharifuzzaman
+      given-names: Md
+    - family-names: Fahad
+      given-names: Nafiz
+    - family-names: Rabbi
+      given-names: Riadul Islam
+    - family-names: Sadib
+      given-names: Ridwan Jamal
+    - family-names: Tusher
+      given-names: Ekramul Haque
+    - family-names: Liew
+      given-names: Tze Hui
+    - family-names: Islam
+      given-names: Mohammad Naimul
+    - family-names: Miah
+      given-names: Md Saef Ullah
+    - family-names: Hossen
+      given-names: Md. Jakir
+  collection-title: "Artificial Intelligence Applications and Innovations (AIAI 2025)"
+  collection-type: proceedings
+  conference:
+    name: "21st IFIP WG 12.5 International Conference on Artificial Intelligence Applications and Innovations"
+    city: Limassol
+    country: CY
+  publisher:
+    name: Springer
+  volume: 758
+  start: 196
+  end: 212
+  year: 2025
+  doi: "10.1007/978-3-031-96235-6_15"
