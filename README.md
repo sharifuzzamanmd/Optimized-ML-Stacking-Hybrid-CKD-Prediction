@@ -8,7 +8,6 @@
 
 [![Paper](https://img.shields.io/badge/Paper-Springer-blue)](https://doi.org/10.1007/978-3-031-96235-6_15)
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--96235--6__15-informational)](https://doi.org/10.1007/978-3-031-96235-6_15)
-[![PDF](https://img.shields.io/badge/PDF-Camera--ready-red)](docs/paper/Sharifuzzaman_2025_CKD_Stacking_Hybrid_AIAI.pdf)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -47,8 +46,7 @@ The stacking hybrid reaches **99.0% accuracy, 100% recall and 0.99 F1** on the h
 │   └── ckd_pipeline.py           # clean, reproducible end-to-end pipeline
 ├── results/                      # metrics (CSV/JSON) and ROC curves produced by the pipeline
 ├── docs/
-│   ├── figures/                  # figures used in the paper
-│   └── paper/                    # camera-ready PDF of the paper
+│   └── figures/                  # figures used in the paper
 ├── legacy/                       # earlier Flask demo app (not maintained)
 ├── requirements.txt
 ├── CITATION.cff
